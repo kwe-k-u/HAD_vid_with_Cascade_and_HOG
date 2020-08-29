@@ -1,0 +1,31 @@
+Objectives
+	- Create a system to accurately track soccer player movement on feild
+	- Create system to accurately recognise player action such as
+	 passes, crosses, shots and tackles
+	- Create system to calculate team possesion and successful pass rate
+
+
+Summary of steps
+	+ Access webcam
+	- Recognise human
+	- Track human movement
+	- Gather videos of soccer actions
+	- Add model to recognise actions
+
+
+Possible libraries needed
+	- OpenCv for computer vision
+	- Openpose for human activity recognition/detection
+
+
+Notes
+	-Drone will be used to follow gameplay
+	- code should allow drone to be automatically following ball position
+
+
+Soccer actions
+	- Passing (long and short)
+	- Dribbling
+	- Goal keeper saves
+	- Crossing
+	- 
